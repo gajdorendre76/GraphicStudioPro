@@ -1,0 +1,4 @@
+Color Palette Studio 8.0
+Nyisd meg az index.html filet böngészőben.
+Offline működik; kedvenceket a böngésző helyi tárhelye őrzi.
+CIELAB és Delta E számítások sRGB D65 feltételezéssel.
