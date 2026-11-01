@@ -43,4 +43,4 @@ The application is undergoing an English-language interface review. Some interfa
 
 ## Release status
 
-Version 10.0 source is available. A packaged, verified release has not yet been published. No open-source license has been selected; please do not assume permission to redistribute or modify the code beyond applicable law.
+Version 10.0 source is available. A packaged, verified release has not yet been published. Licensed under the MIT License. See [LICENSE](LICENSE) for details.
