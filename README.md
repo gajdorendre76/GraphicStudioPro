@@ -1,4 +1,4 @@
-# Graphic Studio Pro 9.0
+# Graphic Studio Pro 10.0
 
 Új kezdőimageernyő: három editor gyorsindítója, recent projects, az aktív project utolsó öt backup savee és direct restorei lehetőség.
 
